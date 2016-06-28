@@ -36,3 +36,8 @@ body {
   background: #9ccd9a;
   width: 33.3%
 }
+
+.kitty {
+  position: absolute;
+  bottom: 0px;
+}
