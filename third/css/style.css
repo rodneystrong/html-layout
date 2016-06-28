@@ -1,15 +1,38 @@
 .header {
-
+  background: #cbccc3;
+  height: 120px;
 }
 
 .box {
   background: #59708d;
+  display: inline-block;
   width: 100px;
   height: 100px;
+  margin: 10px;
 }
 
 .content {
+  background: #fff;
+}
 
+.height-150 {
+  height: 150px;
+}
+
+.row1 {
+  background: #59708d;
+}
+
+.row2 {
+  background: #59b39d;
+}
+
+.row3 {
+  background: #9ccd9a;
+}
+
+.row4 {
+  background: #e3dd61;
 }
 
 .footer {
